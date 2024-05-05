@@ -6,9 +6,10 @@ I'm Plango, a programmer who's been building things in code for the past 8 years
 
 *  Games (think Roblox awesomeness and beyond! )
 *  Machine Learning (teaching computers to be super smart! )
-*  Kernel Game Cheats (Shh... it's for educational purposes only ) - Minecraft clients and plugins ⛏️
+*  Kernel Game Cheats (Shh... it's for educational purposes only ) 
+*  Minecraft clients and plugins ⛏️
 
-**Current Project: AstraSkies **
+**Current Project: AstraSkies**
 
 Get ready to blast off to a whole new world!   I'm teaming up with a partner to build AstraSkies, a fully custom-coded Skyblock server ️. Inspired by legendary servers like Cosmic Sky and Hypixel ✨, we're crafting an epic adventure for you to conquer .
 
